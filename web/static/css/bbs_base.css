@@ -1,0 +1,52 @@
+@media only screen and (min-width: 1200px) {
+    .bbs-g-fixed {
+        max-width: 1200px;
+    }
+}
+
+@media only screen and (min-width: 641px) {
+    .bbs-sidebar {
+        font-size: 1.4rem;
+    }
+}
+
+.bbs-main {
+    padding: 20px 0;
+}
+
+.bbs-title {
+    margin: 10px 0 20px 0;
+}
+
+.bbs-meta {
+    font-size: 14px;
+    margin: 10px 0 20px 0;
+    color: #222;
+}
+
+.bbs-meta a {
+    color: #27ae60;
+}
+
+.bbs-pagination a {
+    font-size: 1.4rem;
+}
+
+.bbs-team li {
+    padding: 4px;
+}
+
+.bbs-team img {
+    margin-bottom: 0;
+}
+
+.bbs-content img,
+.bbs-team img {
+    max-width: 100%;
+    height: auto;
+}
+
+.bbs-footer {
+    padding: 10px 0;
+    text-align: center;
+}
